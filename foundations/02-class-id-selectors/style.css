@@ -1,0 +1,18 @@
+.classic {
+    font-family: Verdana, DeJavu Sans, sans-serif;
+    color: #000;
+    background-color: #ffa7a7;
+    font-size: 20px;
+}
+.classic.cool {
+    font-size: 24px;
+}
+#one-id {
+    color: #00f;
+    font-size: 36px;
+}
+#another-id {
+    background-color: #80ff80;
+    font-weight: bold;
+    font-size: 24px;
+}
